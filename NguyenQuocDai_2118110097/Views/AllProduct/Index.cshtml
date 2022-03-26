@@ -1,0 +1,72 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<NguyenQuocDai_2118110097.ContactDB.Product>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .tableaa {
+        background-color: burlywood;
+    }
+
+    .pagination {
+        font-display: inherit;
+    }
+
+        .pagination a {
+            color: black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            border: 1px solid #ddd;
+        }
+
+            .pagination a:hover {
+                background-color: #1681b0;
+            }
+
+            .pagination a:first-child {
+                border-top-left-radius: 5px;
+                border-bottom-left-radius: 5px;
+            }
+
+            .pagination a:last-child {
+                border-top-right-radius: 5px;
+                border-bottom-right-radius: 5px;
+            }
+</style>
+<section class="padding-bottom">
+ 
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-xl-3 col-lg-3 col-md-4 col-6">
+                <div class="card card-product-grid">
+                    <a href="@Url.Action("Detail","Product", new { id = item.Id })" class="img-wrap"> <img src="~/Public/@item.Img"> </a>
+                    <figcaption class="info-wrap">
+                        <ul class="rating-stars mb-1">
+                            <li style="width:80%" class="stars-active">
+                                <img src="~/Public/images/icons/stars-active.svg" alt="">
+                            </li>
+                            <li>
+                                <img src="~/Public/images/icons/starts-disable.svg" alt="">
+                            </li>
+                        </ul>
+                        <div>
+                            <h5><a href="@Url.Action("Detail","Product", new { id = item.Id })" class="title">@item.Name</a></h5>
+                            <a href="#" class="text-muted">@item.producter</a><br />
+                            <a href="#" class="text-muted">@item.origin</a>
+
+                        </div>
+                        <div class="price h5 mt-2"><span class="text-danger">@item.PriceDiscount  VND</span></div> <!-- price.// -->
+                        <a href="#" class="title"><span class="text-danger">Giảm @item.discount%</span></a>
+                    </figcaption>
+                </div>
+            </div> <!-- col.// -->
+        }
+    </div> <!-- row.// -->
+</section>
+<div class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, currentFilter = ViewBag.CurrentFilter }))
+</div>

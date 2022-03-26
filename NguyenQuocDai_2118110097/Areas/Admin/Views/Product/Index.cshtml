@@ -1,0 +1,113 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<NguyenQuocDai_2118110097.ContactDB.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+
+<style>
+    .tableaa{
+        background-color:burlywood;
+    }
+    .pagination {
+        font-display:inherit;
+    }
+
+        .pagination a {
+            color:black;
+            float: left;
+            padding: 8px 16px;
+            text-decoration: none;
+            border: 1px solid #ddd;
+
+            
+        }
+        .pagination a:hover {
+           background-color: #1681b0;
+        }
+        
+        .pagination a:first-child {
+           border-top-left-radius: 5px;
+           border-bottom-left-radius: 5px;
+        }
+
+        .pagination a:last-child {
+           border-top-right-radius: 5px;
+           border-bottom-right-radius: 5px;
+        }
+    }
+</style>
+
+<div>
+    
+        <p class="text-danger padding-bottom">
+            @Html.ActionLink("Thêm Sản Phẩm Mới", "Create")
+        </p>
+    <div>
+        @using (Html.BeginForm("Index", "Product", FormMethod.Get))
+        {
+            <p>
+                Tìm tên sản phẩm: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+                <input type="submit" value="Tìm kiếm" />
+            </p>
+        }
+
+    </div>
+    <table class="table x-toolbar grid-toolbar x-border-item x-box-item x-toolbar-default x-box-layout-ct" style="border-width: 1px 1px 0px; height: 36px; margin: 0px;  right: auto; left: 0px; top: 0px;" role="toolbar" aria-hidden="false" aria-disabled="false">
+        <tr class="tableaa">
+            <th class="col-sm-2">Tên sản phẩm</th>
+            <th class="col-sm-2">Hình ảnh</th>
+            <th class="col-sm-1">Cty sản xuất</th>
+            <th class="col-sm-1">Chất liệu</th>
+            <th class="col-sm-1">Nơi sản xuất</th>
+            <th class="col-sm-1">Giá niêm yết</th>
+            <th class="col-sm-1">Giá đã giảm</th>
+            <th class="col-sm-2">Giảm giá(%)</th>
+            <th><span>Chức năng</span></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td class="text-bold">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <img src="~/Public/@Html.DisplayFor(modelItem => item.Img)" height="180" width="150" class="img-bg">
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.producter)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.specication)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.origin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PriceDiscount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.discount)
+                </td>
+                <td class="btn-group btn-group-lg">
+
+                    <span class="btn-sm btn-danger">@Html.ActionLink("Sửa", "Edit", new { id = item.Id })  </span>
+                    <span class="btn-sm btn-success">@Html.ActionLink("Chi tiết", "Details", new { id = item.Id })  </span>
+                    <span class="btn-sm btn-primary">@Html.ActionLink("Xóa", "Delete", new { id = item.Id })  </span>
+                        
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="pagination">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page, currentFilter = ViewBag.CurrentFilter }))
+    </div>
+</div>

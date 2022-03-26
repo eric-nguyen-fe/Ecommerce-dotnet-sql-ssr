@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebbanhangModelStoreContainer" CdmEntityContainer="WebbanhangEntities">
+    <EntitySetMapping Name="products">
+      <EntityTypeMapping TypeName="WebbanhangModel.product">
+        <MappingFragment StoreEntitySet="products">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="id_category" ColumnName="id_category" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="shortdesc" ColumnName="shortdesc" />
+          <ScalarProperty Name="fulldesc" ColumnName="fulldesc" />
+          <ScalarProperty Name="producter" ColumnName="producter" />
+          <ScalarProperty Name="specication" ColumnName="specication" />
+          <ScalarProperty Name="origin" ColumnName="origin" />
+          <ScalarProperty Name="price" ColumnName="price" />
+          <ScalarProperty Name="price_net" ColumnName="price_net" />
+          <ScalarProperty Name="available" ColumnName="available" />
+          <ScalarProperty Name="sold" ColumnName="sold" />
+          <ScalarProperty Name="discount" ColumnName="discount" />
+          <ScalarProperty Name="deal" ColumnName="deal" />
+          <ScalarProperty Name="apparel" ColumnName="apparel" />
+          <ScalarProperty Name="electronic" ColumnName="electronic" />
+          <ScalarProperty Name="item" ColumnName="item" />
+          <ScalarProperty Name="img" ColumnName="img" />
+          <ScalarProperty Name="img1" ColumnName="img1" />
+          <ScalarProperty Name="img2" ColumnName="img2" />
+          <ScalarProperty Name="img3" ColumnName="img3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

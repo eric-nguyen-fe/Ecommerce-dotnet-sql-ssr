@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebbanhangModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="product">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="id_category" Type="Int32" />
+    <Property Name="title" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="shortdesc" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="fulldesc" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="producter" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="specication" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="origin" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="price" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="price_net" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="available" Type="Int32" />
+    <Property Name="sold" Type="Int32" />
+    <Property Name="discount" Type="Int32" />
+    <Property Name="deal" Type="Int32" />
+    <Property Name="apparel" Type="Int32" />
+    <Property Name="electronic" Type="Int32" />
+    <Property Name="item" Type="Int32" />
+    <Property Name="img" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="img1" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="img2" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="img3" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="WebbanhangEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="products" EntityType="Self.product" />
+  </EntityContainer>
+</Schema>

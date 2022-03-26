@@ -1,0 +1,55 @@
+﻿@model NguyenQuocDai_2118110097.ContactDB.Category
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Category</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <section class="section-content bg-white padding-y">
+            <div class="container">
+                <!-- ============================ ITEM DETAIL ======================== -->
+                <div class="row">
+                    <aside class="col-md-6">
+                        <div class="card">
+                            <article class="gallery-wrap">
+                                <div class="img-big-wrap">
+                                    <div> <a href="#"><img src="~/Public/@Html.DisplayFor(model => model.Img)"></a></div>
+                                </div> <!-- slider-product.// -->
+                            </article> <!-- gallery-wrap .end// -->
+                        </div> <!-- card.// -->
+                    </aside>
+                    <main class="col-md-6">
+                        <article class="product-info-aside">
+
+                            <h2 class="title mt-3">@Html.DisplayFor(model => model.Name)</h2>
+
+                            <dl class="row">
+                                <dt class="col-sm-3">Tên viết tắc</dt>
+                                <dd class="col-sm-9">@Html.DisplayFor(model => model.Slug)</dd>
+
+                                <dt class="col-sm-3">Xóa sản phẩm</dt>
+                                <dd class="col-sm-9">@Html.DisplayFor(model => model.Deleted)</dd>
+
+                                <dt class="col-sm-3">Hiển thị</dt>
+                                <dd class="col-sm-9">@Html.DisplayFor(model => model.Showonhomepage)</dd>
+
+                                <dt class="col-sm-3">Ngày thêm</dt>
+                                <dd class="col-sm-9">@Html.DisplayFor(model => model.CreatedOnUtc)</dd>
+                            </dl>
+                        </article> <!-- product-info-aside .// -->
+                    </main> <!-- col.// -->
+                </div> <!-- row.// -->
+            </div> <!-- container .//  -->
+        </section>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
