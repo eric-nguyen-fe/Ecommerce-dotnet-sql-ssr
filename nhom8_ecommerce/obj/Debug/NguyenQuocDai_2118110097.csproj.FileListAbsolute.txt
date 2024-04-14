@@ -1,0 +1,174 @@
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\nhom8_ecommerce.dll.config
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\nhom8_ecommerce.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\nhom8_ecommerce.pdb
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\csc.exe
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\csc.exe.config
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\csc.rsp
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\csi.exe
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\csi.exe.config
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\csi.rsp
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.AppContext.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Collections.Immutable.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Console.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Globalization.Calendars.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.IO.Compression.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.IO.FileSystem.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Net.Http.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Net.Sockets.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.ValueTuple.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Xml.XPath.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\vbc.exe
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\vbc.exe.config
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\vbc.rsp
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\VBCSCompiler.exe
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\roslyn\VBCSCompiler.exe.config
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\Antlr3.Runtime.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\Microsoft.Web.Infrastructure.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\Newtonsoft.Json.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Helpers.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Mvc.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Optimization.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Razor.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.WebPages.Deployment.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.WebPages.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.WebPages.Razor.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\WebGrease.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Helpers.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Mvc.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Optimization.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.Razor.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.WebPages.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.WebPages.Deployment.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\System.Web.WebPages.Razor.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\Newtonsoft.Json.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\Antlr3.Runtime.pdb
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.csproj.CoreCompileInputs.cache
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.csproj.CopyComplete
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.pdb
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\EntityFramework.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\EntityFramework.SqlServer.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\EntityFramework.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\EntityFramework.SqlServer.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\PagedList.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\PagedList.Mvc.dll
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\PagedList.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\bin\PagedList.Mvc.xml
+E:\ASP-WEB\Webbanhang\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.csproj.AssemblyReference.cache
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.csproj.AssemblyReference.cache
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.csproj.CoreCompileInputs.cache
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\obj\Debug\nhom8_ecommerce.pdb
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\nhom8_ecommerce.dll.config
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\nhom8_ecommerce.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\nhom8_ecommerce.pdb
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\csc.exe
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\csc.exe.config
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\csc.rsp
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\csi.exe
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\csi.exe.config
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\csi.rsp
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.AppContext.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Console.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.IO.Compression.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Net.Http.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Net.Sockets.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.ValueTuple.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Xml.XPath.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\vbc.exe
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\vbc.exe.config
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\vbc.rsp
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\Antlr3.Runtime.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\EntityFramework.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\EntityFramework.SqlServer.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\Newtonsoft.Json.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\PagedList.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\PagedList.Mvc.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Helpers.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Mvc.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Optimization.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Razor.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.WebPages.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\WebGrease.dll
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\EntityFramework.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\EntityFramework.SqlServer.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\PagedList.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\PagedList.Mvc.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Helpers.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Mvc.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Optimization.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.Razor.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.WebPages.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\Newtonsoft.Json.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\Antlr3.Runtime.pdb
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daing\OneDrive\Máy tính\Ecommerce-dotnet-sql-ssr\nhom8_ecommerce\obj\Debug\NguyenQu.A81F83A1.Up2Date
